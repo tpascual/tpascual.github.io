@@ -1,0 +1,24 @@
+site: https://tpascual.github.io/
+name: Toni Pasqual
+description: Portfolio focused on production e-commerce systems, integrations, and technical leadership.
+
+preferred-language: es
+alternate-language: en
+
+profile:
+- https://tpascual.github.io/
+- https://tpascual.github.io/en/
+
+key-pages:
+- https://tpascual.github.io/#como-trabajo
+- https://tpascual.github.io/#experience
+- https://tpascual.github.io/#casos-reales
+- https://tpascual.github.io/#credenciales
+- https://tpascual.github.io/#sobre-mi
+- https://tpascual.github.io/experienceMore/
+- https://tpascual.github.io/certificadosMore/
+- https://tpascual.github.io/en/experienceMore/
+- https://tpascual.github.io/en/certificadosMore/
+
+contact:
+- LinkedIn: https://www.linkedin.com/in/tonipasqual/
